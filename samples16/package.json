@@ -1,0 +1,23 @@
+{
+  "name": "summer16",
+  "version": "1.0.0",
+  "description": "Johnny Five Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Murali Krishnan",
+  "license": "ISC",
+  "dependencies": {
+    "tessel-io": "^0.6.4",
+    "johnny-five": "^0.9.59",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://kinamux@bitbucket.org/t2bots/samples16.git"
+  },
+  "homepage": "https://bitbucket.org/t2bots/samples16#readme"
+}
